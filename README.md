@@ -17,7 +17,7 @@ A bot that bridges messages between a **Discord server** and **Slack**, using **
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/n4m3less07/discord-slack-bridge
+git clone https://github.com/ryadevx/discord-slack-bridge
 cd discord-slack-bridge
 ```
 
